@@ -7,4 +7,8 @@ Lecture 2
 * Element wise multiplication: B(*)B = Like addition but with the multiplication operator
 
 
-DATA INSTENSIVE CLOUD COMPUTING ===> NO.
+#### Popular Internet Data Science examples
+* Internet search (autocomplete, google page ranking)
+* Targeted advertising (AdSense)
+* Recommendations (Neflix)
+* Spam detection (Gmail)

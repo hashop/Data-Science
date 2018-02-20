@@ -7,7 +7,7 @@ K-Means Clustering
 **Answer:** Number of clusters selected by users. Is not garenteed to work with given data so K-Means can be considered a naive algorithm.
 
 #### Q: Where do we place the initial centroids?
-**Answer:** Use the elbow method https://bl.ocks.org/rpgove/0060ff3b656618e9136b
+**Answer:** Use random points or use the elbow method https://bl.ocks.org/rpgove/0060ff3b656618e9136b
 
 #### Q: What is a distance measure?
 **Answer:** Euclidean distance aka d2. Other distance algorithms of dm with m=1 are also common.
